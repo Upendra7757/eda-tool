@@ -4,7 +4,7 @@
   "pk": 1,
   "fields": {
     "password": "pbkdf2_sha256$1200000$YotYVbIQ2hiMYsSDKNaeof$rCrii++1zKR4AeU6KCOYyk/RlnKONbm3SZpFnIeCGj0=",
-    "last_login": "2026-04-08T06:10:57.755Z",
+    "last_login": "2026-04-08T06:53:11.823Z",
     "is_superuser": true,
     "username": "admin",
     "first_name": "",
@@ -19,10 +19,10 @@
 },
 {
   "model": "sessions.session",
-  "pk": "d319dhdtosb17gbk68j67zu1xyduq803",
+  "pk": "dajz2nba1q1dqg8cf9khllksb1wjaeio",
   "fields": {
-    "session_data": ".eJxVjMsOgyAQRf-FdUPA4aEuu_cbyABDpTWaCDZpmv57NXHRbu8597yZw62Obiu0uhxZzyS7_G4ew4PmA8Q7zreFh2Wua_b8UPhJCx-WSNP1dP8CI5ZxfzedsEQRKIU2CqVl6FovVTBgPEH0JJL2NoDsVEIQoJRPxmpMViQQAvbohKU6DDU_c32xXlqrTdMabT9fVQpANw:1wAM7t:g1QNvim4yPy_kS2i_vLS8WHDIKd49hnNZ0t7jmjZbfY",
-    "expire_date": "2026-04-22T06:10:57.781Z"
+    "session_data": ".eJxVjMsOwiAQRf-FtSHg8ChduvcbyACDRZs2KdTEGP_dNulCt_ece97M49oGv1ZafEmsZ5KdfreA8UHTDtIdp9vM4zy1pQS-K_yglV_nROPlcP8CA9Zhe5-dsEQJKMcuCaVldF2QKhowgSAFElkHG0E6lREEKBWysRqzFRmEgC06Ym0eYyvP0l6sl9ZqA1K67vMFVOdAMQ:1wAMms:Kao6i38_SI3tc4R4g7YGJEzCNFNxQ6oWFuXnVR3Bvuw",
+    "expire_date": "2026-04-22T06:53:18.700Z"
   }
 },
 {
